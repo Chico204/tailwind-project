@@ -33,6 +33,7 @@
     background-image: url('../manage-landing-page-master/images/bg-simplify-section-mobile.svg');
   }
  }
+ 
  .hamburger{
   cursor: pointer;
   width: 24px;
@@ -45,7 +46,7 @@
    top: 0;
    left: 0;
    width: 24px;
-   height: 2px;
+   height: 3px;
    background: black;
    transform: rotate(0);
    transition: all 0.5s;
